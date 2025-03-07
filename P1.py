@@ -16,9 +16,11 @@ print(f"The ans of this multipy is :'{ans}'")
 
 
 
-o/p look like this
+#o/p 
+'''
 (base) atul2501@Atuls-MacBook-Air Python Practice project list % python P1.py
 enter your first number :2
 enter your second number :6
 The addition of number are :'8.0'
 The ans of this multipy is :'12.0'
+'''

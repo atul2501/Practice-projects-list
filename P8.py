@@ -22,11 +22,6 @@ while True:
 
 		if percentage_speed>=0 and percentage_speed<100:
 
-			
-
-			if percentage_speed=="q":
-				print("thank of testing come back soon")
-				break
 
 			#if percentage_speed>=0 and percentage_speed<=100:
 			ship_speed=(percentage_speed/100)*Light_speed

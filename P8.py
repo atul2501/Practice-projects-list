@@ -85,4 +85,4 @@ Time to Alpha Centauri: 4.16 years
 Time to Barnard's Star: 5.81 years
 Time to Betelgeuse: 299.19 years
 Time to Andromeda Galaxy: 1936491.67 years
-''''
+'''
